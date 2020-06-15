@@ -3,7 +3,7 @@
 " Maintainer:   Peter Debacker "pdback@imec.be"
 " Last Change:  27/09/2012
 "
-" This is based on spectre .vim by Ahmed Nabil
+" This is based on spectre.vim by Ahmed Nabil
 
 " For version 5.x: Clear all syntax items
 " For version 6.x: Quit when a syntax file was already loaded
